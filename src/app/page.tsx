@@ -361,12 +361,6 @@ const Amazon = () => {
           color: "var(--text-primary)",
         }}
       >
-        Web Design
-        <span style={{ color: "var(--accent)", letterSpacing: "0.1em" }}>
-          @Amazon
-        </span>
-      </h3>
-      <p
         Education
         <span style={{ color: "var(--accent)", letterSpacing: "0.1em" }}>
           Background
@@ -409,6 +403,12 @@ const Amazon = () => {
             <TiArrowForward />
           </span>
           Strong foundation in software engineering, system design, and computer systems principles
+        </li>
+      </ul>
+    </motion.div>
+  );
+};
+
 //Right panel with email
 
 const RightSide = () => {
@@ -2506,7 +2506,7 @@ export default function App() {
           <div className="h-[88vh] mx-auto p-4">
             <Banner />
             <About />
-            <Experience />
+            {/* <Experience /> */}
             <Projects />
             <Archive />
             <Contact />
