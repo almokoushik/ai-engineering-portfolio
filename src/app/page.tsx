@@ -24,7 +24,8 @@ const logo = "https://i.ibb.co.com/h1L1kdBX/logo.png";
 const profileImg = "https://i.ibb.co.com/JjLZxgjt/Almo-1-removebg-preview-1.png";
 const amazonImg = "https://i.ibb.co.com/N2cmHxXb/Agentic-AI-Chatbot-Using-Lang-Graph-Streamlit-03-13-2026-10-54-PM.png";
 const cyberImg = "https://i.ibb.co.com/ZzpYZ5RM/ann-from-zero.png";
-const noorShop = "https://i.ibb.co.com/QjfYH9M9/noorShop.png";
+// const noorShop = "https://i.ibb.co.com/QjfYH9M9/noorShop.png";
+const noorshop = "https://i.ibb.co.com/0jZsLh8n/";
 
 // Theme management for both dark and light
 const darkTheme = {
