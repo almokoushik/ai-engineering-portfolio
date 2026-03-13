@@ -21,9 +21,9 @@ import { BsMoon, BsSun } from "react-icons/bs";
 // demo images
 
 const logo = "https://i.ibb.co.com/h1L1kdBX/logo.png";
-const profileImg = "https://i.ibb.co.com/h1swttDj/profile.png";
-const amazonImg = "https://i.ibb.co.com/Kx6msKVQ/amazon-Img.png";
-const cyberImg = "https://i.ibb.co.com/nNSsK0Wj/cyber-Blog.png";
+const profileImg = "https://i.ibb.co.com/JjLZxgjt/Almo-1-removebg-preview-1.png";
+const amazonImg = "https://i.ibb.co.com/N2cmHxXb/Agentic-AI-Chatbot-Using-Lang-Graph-Streamlit-03-13-2026-10-54-PM.png";
+const cyberImg = "https://i.ibb.co.com/ZzpYZ5RM/ann-from-zero.png";
 const noorShop = "https://i.ibb.co.com/QjfYH9M9/noorShop.png";
 
 // Theme management for both dark and light
@@ -993,7 +993,7 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/almokoushik/agentic-ai-chatbot"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1009,7 +1009,7 @@ const Projects = () => {
                 <TbBrandGithub />
               </a>
               <a
-                href="https://example.com"
+                href="#"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1025,7 +1025,7 @@ const Projects = () => {
                 <AiOutlineYoutube />
               </a>
               <a
-                href="https://example.com"
+                href="https://agentic-ai-chatbot-lgpcfbeg7h2aasp7umbld2.streamlit.app/"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1093,7 +1093,7 @@ const Projects = () => {
                 color: "var(--text-secondary)",
               }}
             >
-              Comprehensive implementations of deep learning architectures and <span style={{ color: "var(--accent)" }}>neural network models</span> for research and production use. Includes convolutional neural networks, recurrent architectures, and transformer-based models with performance optim izations.
+              Comprehensive implementations of deep learning architectures and <span style={{ color: "var(--accent)" }}>neural network models</span> for research. Includes basic artificial neural network with performance optimizations.
             </p>
             <ul
               className="text-xs md:text-sm tracking-wide flex gap-2 md:gap-5 justify-between"
@@ -1110,7 +1110,7 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/almokoushik/ANN-From-Zero"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1126,7 +1126,7 @@ const Projects = () => {
                 <TbBrandGithub />
               </a>
               <a
-                href="https://example.com"
+                href="https://github.com/almokoushik/ANN-From-Zero"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1142,7 +1142,7 @@ const Projects = () => {
                 <AiOutlineYoutube />
               </a>
               <a
-                href="https://example.com"
+                href="https://github.com/almokoushik/ANN-From-Zero"
                 target="_blank"
                 style={{
                   color: "var(--text-secondary)",
@@ -1163,7 +1163,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative"
-            href="https://github.com"
+            href="https://github.com/almokoushik/ANN-From-Zero"
             target="_blank"
             onMouseEnter={() => setIsHovered3(true)}
             onMouseLeave={() => setIsHovered3(false)}
@@ -2284,7 +2284,7 @@ const Navbar = () => {
                       </motion.li>
                     </Link>
                   </ul>
-                  <a href="#" target="_blank">
+                  <a href="https://drive.google.com/file/d/1-YdJGmnhjEQHb-onYB_6haHj02y93TZj/view?usp=sharing" target="_blank">
                     <motion.button
                       initial={{ opacity: 0 }}
                       animate={{ opacity: 1 }}
